@@ -14,7 +14,9 @@ Run the following command to download all necessary resources and install requir
 bash build.sh
 ```
 
-### 2. Host All Websites
+Change the HOME_URL in .env file to your home url.
+
+### 2. Host Websites Enviroment
 After the initial setup, you can host all websites by running:
 
 ```bash
