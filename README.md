@@ -4,6 +4,8 @@ This guide will help you set up and host all required websites quickly and effic
 
 ## Prerequisites
 - Ensure you have `bash` and all necessary permissions to execute scripts in this directory.
+- **Node.js** (version 18.x or higher recommended). You can check your version with `node -v`.
+  - If you do not have Node.js installed, visit [nodejs.org](https://nodejs.org/) and follow the installation instructions for your operating system.
 
 ## Setup Instructions
 
