@@ -1,6 +1,6 @@
-# Web Environments - Quick Start Guide
+# Web Environment - Quick Start Guide
 
-This guide will help you set up and host all required websites quickly and efficiently.
+This guide will help you set up and host web enviroment.
 
 ## Prerequisites
 - Ensure you have `bash` and all necessary permissions to execute scripts in this directory.
@@ -10,13 +10,13 @@ This guide will help you set up and host all required websites quickly and effic
 ## Setup Instructions
 
 ### 1. Install Required Resources and Packages
-Run the following command to download all necessary resources and install required packages. *This step only needs to be performed once*:
+- Run the following command to download all necessary resources and install required packages. *This step only needs to be performed once*:
 
 ```bash
 bash build.sh
 ```
 
-Change the HOME_URL in .env file to your home url.
+- Change the HOME_URL in .env file to your home url.
 
 ### 2. Host Websites Enviroment
 After the initial setup, you can host all websites by running:
